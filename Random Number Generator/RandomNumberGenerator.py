@@ -18,4 +18,4 @@ while flag == True :
         print("Too high, try again:", end = " ")
     else :
         print("Correct...my number is " + guess)
-        flag == False 
+        flag = False 
